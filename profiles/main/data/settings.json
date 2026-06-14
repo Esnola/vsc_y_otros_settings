@@ -1,0 +1,7 @@
+{
+    "laravel-pint.enable": true,
+    "editor.formatOnSave": true,
+    "workbench.iconTheme": "material-icon-theme",
+    "syncSettings.confirmSync": true,
+    "git.autofetch": true
+}
